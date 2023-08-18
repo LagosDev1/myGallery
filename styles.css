@@ -21,9 +21,8 @@ h1{
     flex-wrap: wrap;
     justify-content: center; 
     align-items: flex-start; 
-
-
 }
+
 
 .box{
     width: 13%;
